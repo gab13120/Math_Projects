@@ -29,12 +29,10 @@ This project is one of the ways I’m preparing for that next step.
 ### 1. HEC Mathematics II 2023 – Probability & Random Walks
 - Score: 16.5/20
 - Focus: Law of large numbers, stopping times, combinatorics
-- Almost fully simulated using Python
 
 ### 2. EM Lyon Mathematics 2023 – Series, Distributions, Linear Forms
 - Score: 20/20
 - Focus: Logarithmic series, density transformation, bilinear algebra
-- Verified step-by-step using symbolic and numerical tools
 
 ## Technologies
 
