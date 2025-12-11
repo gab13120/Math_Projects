@@ -40,13 +40,4 @@ This project is one of the ways I’m preparing for that next step.
 - Jupyter notebooks
 - NumPy, SciPy, matplotlib, sympy
 
-## A Note to the Berkeley Committee
-
-This repository is not a résumé.  
-It’s a quiet statement of intent.
-
-It shows:
-- My ability to work through advanced math problems
-- My comfort with translating theory into clean, executable logic
-- My desire to be evaluated not just by credentials, but by what I can actually build
 
